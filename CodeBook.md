@@ -61,17 +61,17 @@ Additional vectors obtained by averaging the signals in a signal window sample. 
 Data processing protocol with run_analysis.R
 =====
 
-1 Only mean and std of each feature measurement have been kept in the final dataset
-2 Training dataset and Test dataset are merged
-3 the mean of each feature are calculated for each combination of subject and activity
+1. Only mean and std of each feature measurement have been kept in the final dataset
+2. Training dataset and Test dataset are merged
+3. the mean of each feature are calculated for each combination of subject and activity
 
 Final data format
 =====
 
 Each row contains the mean of each measurement for every combination of subject and activity
-First column is the index of subjects
-Second column is the name of the activity
-From the third column to the 88th column, each column contains data for one measurement
+* First column is the index of subjects
+* Second column is the name of the activity
+* From the third column to the 88th column, each column contains data for one measurement
 
 
 
