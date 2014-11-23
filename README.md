@@ -10,4 +10,5 @@ This repo contains the following three files:
 * <b>README.md:</b>   Explanation for this project
 
 The dataset can be found at: <u>http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones</u>
+The run_analysis.R script should be placed in the same folder with the dataset.  The dataset need two separate folders for test and training data.
 
